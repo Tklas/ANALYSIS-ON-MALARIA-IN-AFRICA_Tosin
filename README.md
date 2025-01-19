@@ -7,6 +7,7 @@ Data Source: Kaggle.com
 Tool: Power BI
 
 Observation: 
+
 From the malaria report analysis, below are the list of my observations
 
 Congo, Dem Republic had the highest case of malaria infestation in Africa with a total case 
@@ -42,16 +43,20 @@ Methods and Tools
 visualizations.
 2 Analysis Tools: Geographic mapping, bar and pie charts, and a dynamic incidence gauge 
 were employed for insights.
+
 Summary of Findings:
+
 Malaria is a common disease in Africa. The disease is transmitted to humans through infected 
 mosquito bites. Although you can take preventive measures against malaria, it can be lifethreatening. This dataset includes the malaria cases in African countries, he incidence at risk 
 and the data on preventive treatments against malaria.
+
 Content:
 This dataset includes data on all African countries from the year 2007 to 2017. Each country 
 has a unique ISO-3 country code and the dataset includes the latitude and longitude point of 
 each country as well. The dataset includes the cases of malaria that have been reported in each 
 country and each year as well as data on preventive measures that have been taken o prevent 
 malaria.
+
 Visual Aids
 1 Graphs:
 2 Pie Chart: Incidence of malaria by children receiving anti-malaria drugs
@@ -60,6 +65,7 @@ Visual Aids
 
 
 Recommendations
+
 Invest in Data-Driven Interventions:
 a. Build capacity for better data collection and monitoring of malaria cases, 
 insecticide usage, and access to healthcare services.
@@ -72,12 +78,14 @@ b. Prioritize funding and support for initiatives aimed at improving hygiene to 
 breeding grounds for malaria vectors.
 
 Expand Antimalarial Drug Distribution:
+
 a. Strengthen distribution networks to ensure greater coverage among vulnerable 
 populations, particularly children in urban and rural areas.
 b. Implement educational campaigns to promote drug compliance and awareness of 
 preventive measures.
 
  Scale-Up Insecticide Usage:
+ 
 a. Focus on areas with high malaria incidence, particularly in Uganda and Togo, 
 where reported cases are the highest.
 b. Conduct further studies to determine the effectiveness of current insecticide 
