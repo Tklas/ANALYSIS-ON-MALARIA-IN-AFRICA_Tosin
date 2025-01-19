@@ -39,8 +39,10 @@ Table 1.2
 
 
 Methods and Tools
+
 1 Data Source: Dashboard showing malaria data for 2007, including maps and interactive 
 visualizations.
+
 2 Analysis Tools: Geographic mapping, bar and pie charts, and a dynamic incidence gauge 
 were employed for insights.
 
@@ -67,13 +69,17 @@ Visual Aids
 Recommendations
 
 Invest in Data-Driven Interventions:
+
 a. Build capacity for better data collection and monitoring of malaria cases, 
 insecticide usage, and access to healthcare services.
+
 b. Use predictive analytics to identify trends and allocate resources effectively.
 
 Improve Access to Basic Water and Sanitation Services:
+
 a. Enhance infrastructure for basic drinking water and sanitation services, especially 
 in malaria-prone regions.
+
 b. Prioritize funding and support for initiatives aimed at improving hygiene to reduce 
 breeding grounds for malaria vectors.
 
@@ -81,6 +87,7 @@ Expand Antimalarial Drug Distribution:
 
 a. Strengthen distribution networks to ensure greater coverage among vulnerable 
 populations, particularly children in urban and rural areas.
+
 b. Implement educational campaigns to promote drug compliance and awareness of 
 preventive measures.
 
@@ -88,13 +95,16 @@ preventive measures.
  
 a. Focus on areas with high malaria incidence, particularly in Uganda and Togo, 
 where reported cases are the highest.
+
 b. Conduct further studies to determine the effectiveness of current insecticide 
 programs and optimize deployment strategies to address observed fluctuations in 
 case reduction.
 
  Community Engagement and Education:
+ 
 a. Conduct localized awareness campaigns to educate communities on malaria 
 prevention methods, such as using insecticide-treated bed nets.
+
 b. Engage local leaders to promote the adoption of basic hygiene practices and access 
 to healthcare facilities
  
